@@ -2,6 +2,7 @@ welcome here
 daal 
 chaval
 
-
+beans
+pizza
 thank you
 bye
